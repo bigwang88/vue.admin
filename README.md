@@ -19,7 +19,7 @@ vue --version
 
 ```bash
 # 克隆项目
-git clone http://192.168.99.182/vue.admin.git
+git clone https://github.com/bigwang88/vue.admin.git
 
 # 进入项目目录
 cd vue.admin
